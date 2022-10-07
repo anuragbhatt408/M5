@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+img{
+    max-width: 500px;
+    align-self: center;
+}
+
+h1{
+    margin-bottom: 16px;
+}
+
+p{
+    margin-top: 0;
+}
